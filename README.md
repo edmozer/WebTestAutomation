@@ -2,7 +2,7 @@
 
 ## The automation covers three distinct websites:
 
-- seubarriga.wcaquino.me
+- https://seubarriga.wcaquino.me
 - https://automation-sandbox-python-mpywqjbdza-uc.a.run.app
 - https://the-internet.herokuapp.com/login
   
