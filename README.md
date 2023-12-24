@@ -8,8 +8,9 @@
   
 Features tested include:
 
-Login
-Register
-Invoice
+- Login
+- Register
+- Invoice
+  
 For detailed information on each feature, refer to the respective feature files, where comments provide insights into the elements being tested.
 
