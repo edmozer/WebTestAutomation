@@ -1,4 +1,4 @@
-# SeuBarrigaJava
+# WebTestAutomation
 
 Repositório criado para estudo de automação de testes com Java 11 - JDK (SE), Apache MAven (com variáveis de ambiente), IntelliJ, Selenium, JUnit e Cucumber.
 
